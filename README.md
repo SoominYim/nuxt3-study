@@ -1,1 +1,1 @@
-## :gem Nuxt-vue :gem
+## 💎 Nuxt-vue 💎
